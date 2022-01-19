@@ -24,13 +24,13 @@
 					<div class="menu">
 						<ul>
 							<li class="select">
-								<a href="index.php"><i class="fas fa-home"></i> Home</a>
+								<a href="index.php"><i class="fas fa-home"></i> Home </a>
 							</li>
 							<li>
 								<a href="product.php"><i class="fas fa-compact-disc"></i> Song</a>
 							</li>
 							<li>
-								<a href=""><i class="fas fa-music"></i> Artist</a>
+								<a href=""><i class="fas fa-music"></i> Artists </a>
 							</li>
 							<li>
 								<a href="cart.php"><i class="fas fa-cart-plus"></i> Cart</a>
